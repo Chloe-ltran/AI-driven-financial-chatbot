@@ -1,0 +1,5 @@
+Query,Response
+what is the total revenue?,The total revenue is [amount].
+how has net income changed over the last year?,The net income has [increased/decreased] by [amount] over the last year.
+what is the total cash flow?,The total cash flow is [amount].
+which year has the highest income?,The company has highest income in [year].
